@@ -9,7 +9,7 @@ Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the d
 - 🌱 I’m currently learning Mongo DB
 - 👯 I’m looking to collaborate on any project that allows me to show my skills as a Front-end Dev
 - 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/franco-ariel-parente-41694022a/
-- ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love yo conect with people all over the world!
+- ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love to conect with people all over the world!
 
 
 <table width="420px" align="center">
