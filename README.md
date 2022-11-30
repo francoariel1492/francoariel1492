@@ -1,4 +1,4 @@
-### Hi folks, Welcome to my Github 👋
+## Hi folks, Welcome to my Github 👋
 
 #Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the desire to continue developing my skills in this path full of wonders that is the code.
 
