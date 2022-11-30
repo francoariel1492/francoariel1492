@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi folks, Welcome to my Github 👋
 
-<!--
-**francoariel1492/francoariel1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the desire to continue developing my skills in this path full of wonders that is the code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 
+- Also i am working in a personal project, ✈🛫 Hora de Viajar 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website.
+- 🌱 I’m currently learning Mongo DB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
