@@ -7,13 +7,10 @@
 - 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 
 - Also i am working in a personal project, ✈🛫 Hora de Viajar 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website.
 - 🌱 I’m currently learning Mongo DB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on any project that allows me to show my skills as a Front-end Dev
+- 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/franco-ariel-parente-41694022a/
+- ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love yo conect with people all over the world!
+
 
 <table width="420px" align="center">
     <tbody>
@@ -23,10 +20,6 @@
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-            </td>
-            <td width="100px" align="center">
             <span><strong>JavaScript</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
@@ -34,23 +27,11 @@
             <span><strong>GIT</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
-            <td width="100px" align="center">
-            <span><strong>Node.js</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-            </td>
         </tr>
         <tr valign="bottom">
             <td width="100px" align="center">
-            <span><strong>Express</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"">
-            </td>
-            <td width="100px" align="center">
             <span><strong>SASS</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             </td>
             <td width="100px" align="center">
             <span><strong>CSS</strong></span><br>
@@ -64,9 +45,3 @@
     </tbody>
 </table>
 
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
