@@ -39,7 +39,7 @@ Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the d
             </td>
             <td width="100px" align="center">
             <span><strong>Node Js</strong></span><br>
-            <img height=60 src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg">
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
             </td>
         </tr>
     </tbody>
