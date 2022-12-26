@@ -6,7 +6,7 @@ Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the d
 
 - 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 
 - Also i am working in a personal project, ✈🛫 Hora de Viajar 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website.
-- 🌱 I’m currently learning Mongo DB
+- 🌱 I’m currently learning Node Js
 - 👯 I’m looking to collaborate on any project that allows me to show my skills as a Front-end Dev
 - 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/franco-ariel-parente-41694022a/
 - ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love to conect with people all over the world!
@@ -38,8 +38,8 @@ Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the d
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="100px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+            <span><strong>Node Js</strong></span><br>
+            <img height=60 src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg">
             </td>
         </tr>
     </tbody>
