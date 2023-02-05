@@ -1,14 +1,14 @@
 <h1 align="center">💻 Hello everyone, Welcome to my Github 👋</h1>
 
-Studying to become a Full Stack dev, recently 🙌 Front-end Dev 🙌 with the desire to continue developing my skills in this path full of wonders that is the code.
+Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 with the desire to continue developing my skills in this path full of wonders that is the code.
 
 
-
-- 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 
-- Also i am working in a personal project, ✈🛫 Hora de Viajar 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website.
-- 🌱 I’m currently learning Node Js
+- 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 🧪 ALKHIMAQUIA 🍷 another freelance job website that i am working on for a Mexican project that is bringin back ancient medicine to these modern days.
+- Also i am working in two personal projects, the first one is ✈🛫 Hora de Viajar / Time To Travel 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website. And the second one is a web app that is connected with the google maps api to give you the driving distance between to points on the map.
+- 🌱 I’m currently learning Node Js, Mongo DB, Websockets protocol, Cypress
 - 👯 I’m looking to collaborate on any project that allows me to show my skills as a Front-end Dev
 - 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/franco-ariel-parente-41694022a/
+- 💼 You can also check my recent and new portfolio on https://parente-portfolio.vercel.app/
 - ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love to conect with people all over the world!
 
 
