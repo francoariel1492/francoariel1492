@@ -88,7 +88,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             </td>
             <td width="100px" align="center">
             <span><strong>GIT HUB</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
             </td>
             <td width="100px" align="center">
             <span><strong>Sourcetree</strong></span><br>
