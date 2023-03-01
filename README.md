@@ -18,9 +18,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
         <tr valign="top">
             <td width="100px" align="center">
             <span><strong>React</strong></span><br>
-            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-          
             </td> 
             <td width="100px" align="center">
             <span><strong>JavaScript</strong></span><br>
