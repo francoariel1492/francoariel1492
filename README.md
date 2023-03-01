@@ -37,7 +37,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>Material UI</strong></span><br>
+            <span><strong>MUI</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
             </td>
             <td width="100px" align="center">
@@ -48,16 +48,24 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
      <h2 align="center">Back End Skills</h2>
         <tr valign="bottom">
             <td width="100px" align="center">
-            <span><strong>SASS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="100px" align="center">
             <span><strong>Node Js</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Mongo DB</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Express Js</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Firebase</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Express Js</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
             </td>
         </tr>
     </tbody>
