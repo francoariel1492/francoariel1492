@@ -18,7 +18,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
         <tr valign="top">
             <td width="100px" align="center">
             <span><strong>React</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
             </td> 
             <td width="100px" align="center">
             <span><strong>JavaScript</strong></span><br>
@@ -29,6 +29,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
         </tr>
+     <h2 align="center">Back End Skills</h2>
         <tr valign="bottom">
             <td width="100px" align="center">
             <span><strong>SASS</strong></span><br>
