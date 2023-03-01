@@ -46,6 +46,8 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             </td>
         </tr>
         </tbody>
+    </table>
+    <table width="420px" align="center">
         <tbody>
         <h2 align="center">Back End Skills</h2>
         <tr align="bottom">
