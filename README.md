@@ -1,5 +1,5 @@
 <h1 align="center">💻 Hello everyone, Welcome to my Github 👋</h1>
-<h2 align="center"></> Full Stack Engineer </></h2>
+<h2 align="center">👨🏻‍💻 Full Stack Engineer 👨🏻‍💻</h2>
 
 <h3 align="center">Enthusiastic and very sociable, with a strong belief in teamwork and good practices, I seek to collaborate with work teams that want to go as far as possible.</h3>
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any project that allows me to show my skills as a Front-end Dev
 - 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/franco-ariel-parente-41694022a/
 - 💼 You can also check my recent and new portfolio on https://parente-portfolio.vercel.app/
-- ⚡ Fun fact: I also speak three languages, spanish, italian and english, and i love to conect with people all over the world!
+- ⚡ Fun fact: I also speak three languages, spanish🇪🇸, italian🇮🇹 and english🇬🇧, and i love to conect with people all over the world!
 
 
 <table width="420px" align="center">
