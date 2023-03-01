@@ -44,6 +44,10 @@
             <span><strong>Sass</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
             </td>
+            <td width="100px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+            </td>
         </tr>
         </tbody>
     </table>
