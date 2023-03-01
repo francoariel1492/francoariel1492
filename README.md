@@ -15,8 +15,9 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
 <table width="420px" align="center">
     <tbody>
         <tr align="top">
-            <h2 align="center">Front End Skills</h2>
+            
             <td width="100px" align="center">
+                <h2 align="center">Front End Skills</h2>
             <span><strong>HTML</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
             </td> 
@@ -47,8 +48,9 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
         </tr>
      
         <tr align="bottom">
-            <h2 align="center">Back End Skills</h2>
+            
             <td width="100px" align="center">
+                <h2 align="center">Back End Skills</h2>
             <span><strong>Node Js</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
             </td>
