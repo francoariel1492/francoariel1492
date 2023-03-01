@@ -75,6 +75,10 @@
             <span><strong>POSTMAN</strong></span><br>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
             </td>
+            <td width="100px" align="center">
+            <span><strong>POSTMAN</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
