@@ -49,7 +49,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
         <tr valign="bottom">
             <td width="100px" align="center">
             <span><strong>Node Js</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
             </td>
             <td width="100px" align="center">
             <span><strong>Mongo DB</strong></span><br>
@@ -62,10 +62,6 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             <td width="100px" align="center">
             <span><strong>Firebase</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Express Js</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
             </td>
         </tr>
     </tbody>
