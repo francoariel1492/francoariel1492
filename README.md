@@ -70,4 +70,35 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
         </tr>
     </tbody>
 </table>
+<table width="420px" align="center">
+    <tbody>
+        <h2 align="center">Other tools that i use on daily basis</h2>
+        <tr align="top">
+            <td width="100px" align="center">
+            <span><strong>NPM</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+            </td> 
+            <td width="100px" align="center">
+            <span><strong>GIT</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>GIT HUB</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Sourcetree</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Jira</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>POSTMAN</strong></span><br>
+            <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" />
+            </td>
+        </tr>
+        </tbody>
+    </table>
 
