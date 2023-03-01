@@ -96,7 +96,7 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             </td>
             <td width="100px" align="center">
             <span><strong>POSTMAN</strong></span><br>
-            <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" />
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
             </td>
         </tr>
         </tbody>
