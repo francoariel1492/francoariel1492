@@ -45,6 +45,8 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
             </td>
         </tr>
+        </tbody>
+        <tbody>
         <h2 align="center">Back End Skills</h2>
         <tr align="bottom">
             <td width="100px" align="center">
