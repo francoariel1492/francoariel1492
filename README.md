@@ -17,16 +17,32 @@ Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
-            <span><strong>React</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+            <span><strong>HTML</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
             </td> 
             <td width="100px" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            <span><strong>CSS</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             </td>
             <td width="100px" align="center">
-            <span><strong>GIT</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            <span><strong>Javascript</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>React</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Material UI</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Sass</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
             </td>
         </tr>
      <h2 align="center">Back End Skills</h2>
