@@ -41,6 +41,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
             </td>
             <td width="100px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            </td>
+            <td width="100px" align="center">
             <span><strong>Sass</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
             </td>
