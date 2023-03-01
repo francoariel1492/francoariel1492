@@ -1,7 +1,7 @@
 <h1 align="center">💻 Hello everyone, Welcome to my Github 👋</h1>
+<h2 align="center">Full Stack Engineer</h2>
 
-Studying to become a Full Stack Engineer, recently 🙌 Front-end Engineer 🙌 with the desire to continue developing my skills in this path full of wonders that is the code.
-
+<h3 align="center">Enthusiastic and very sociable, with a strong belief in teamwork and good practices, I seek to collaborate with work teams that want to go as far as possible.</h3>
 
 - 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 🧪 ALKHIMAQUIA 🍷 another freelance job website that i am working on for a Mexican project that is bringin back ancient medicine to these modern days.
 - Also i am working in two personal projects, the first one is ✈🛫 Hora de Viajar / Time To Travel 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website. And the second one is a web app that is connected with the google maps api to give you the driving distance between to points on the map.
