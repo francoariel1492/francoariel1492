@@ -73,7 +73,7 @@
             </td>
             <td width="100px" align="center">
             <span><strong>Express Js</strong></span><br>
-            <img src="https://img.icons8.com/office/40/null/express-js.png"/>
+            <img src="https://img.icons8.com/office/80/null/express-js.png"/>
             </td>
             <td width="100px" align="center">
             <span><strong>Firebase</strong></span><br>
