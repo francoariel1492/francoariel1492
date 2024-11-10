@@ -3,15 +3,6 @@
 
 <h3 align="center">Enthusiastic and very sociable, with a strong belief in teamwork and good practices, I seek to collaborate with work teams that want to go as far as possible.</h3>
 
-- 🔭 I’m currently working on 📸 Magali Moris Fotografia 📸, a website for a pet photographer that is taking photograph to a level that you never seen before!. 🧪 ALKHIMAQUIA 🍷 another freelance job website that i am working on for a Mexican project that is bringin back ancient medicine to these modern days.
-- I'm also working on a personal project, ✈🛫 Hora de Viajar / Time To Travel 🛫, it is a website that shows you where can you travel and apply for a Working Holiday Visa, everything explained on the website.
-- 🌱 I’m currently learning Node Js, Mongo DB, Websockets protocol, Cypress
-- 👯 I’m looking to collaborate on any project that allows me to show my skills as a Full Stack Engineer
-- 📫 How to reach me: you can contact me on Linkedin https://www.linkedin.com/in/francoariel1492/
-- 💼 You can also check my recent and new portfolio on https://parente-portfolio.vercel.app/
-- ⚡ Fun fact: I also speak three languages, spanish🇪🇸, italian🇮🇹 and english🇬🇧, and i love to conect with people all over the world!
-
-
 <table width="420px" align="center">
     <tbody>
         <h2 align="center">Front End Skills</h2>
